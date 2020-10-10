@@ -1,0 +1,6 @@
+#忽略text文件夹
+text/
+#忽略pink文件夹目录
+pink/
+#忽略index1.css文件
+index1.css
